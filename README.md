@@ -1,45 +1,47 @@
 Hi, I'm Kien Nguyen.
+I'm an aspiring **Business Analyst / Supply Chain Analyst** based in Australia with a background in Economics and Supply Chain Management.
 
-I am an aspiring Business Analyst / Supply Chain Analyst / Consultant  based in Australia.
+This portfolio showcases my projects using **Power BI, Excel, SQL, and Python** to solve business problems through data analysis, dashboard development, and data visualization.
 
-This repository showcases my projects using Power BI, Excel, SQL and Python to solve real business problems through data analysis and visualization.
+---
 
-Skills
+# 🛠 Technical Skills
 
-✅ Power BI
+### Data Visualisation
+- Power BI
+- Excel
 
-✅ Excel
+### Data Analysis
+- DAX
+- Power Query
+- Pivot Tables
+- Power Pivot
 
-🚧 SQL (In Progress)
+### Data Management
+- Data Cleaning
+- Data Modelling
+- ETL
 
-Featured Projects
-🏦 Insurance Premium & Payout Dashboard (Power BI)
+### Programming (Currently Learning)
+- SQL
+- Python
 
-Interactive dashboard analysing:
+---
 
-Premium Revenue
-Maturity Amount
-Policy Performance
-Customer Demographics
-Regional Analysis
+# 📂 Portfolio Projects
 
-📄 Dashboard PDF
+| Project | Tool | Status |
+|---------|------|--------|
+| 🏦 Insurance Premium & Payout Dashboard | Power BI | ✅ Completed |
+| 📈 Insurance Excel Dashboard | Excel | ✅ Completed |
+| 📦 Supply Chain Dashboard | Power BI | 🚧 Coming Soon |
+# 🎯 Career Objective
 
-📊 Power BI File
+I'm passionate about transforming raw data into meaningful business insights.
 
-📈 Excel Insurance Analysis
+My goal is to build dashboards that help decision-makers improve operational efficiency, monitor KPIs, and support strategic decision-making.
 
-Interactive Excel dashboard using:
-
-Pivot Tables
-Pivot Charts
-KPI Cards
-Slicers
-Conditional Formatting
-Future Projects
-Supply Chain Dashboard
-Sales Dashboard
-
+---
 - LinkedIn:(https://www.linkedin.com/in/nguyen-kien-trung/)
 - Email: nguyenkientrung152@gmail.com
 
