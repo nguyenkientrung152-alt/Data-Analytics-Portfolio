@@ -1,30 +1,44 @@
-# Data-Analytics-Portfolio
-A portfolio showcasing my Data Analytics projects using Power BI, Excel, SQL 
-Welcome to my Data Analytics Portfolio.
+Hi, I'm Kien Nguyen.
 
-I'm currently developing my skills in **Business Intelligence, Supply Chain Analytics, and Data Analysis** using Power BI, Excel, SQL and Python.
+I am an aspiring Business Analyst / Supply Chain Analyst / Consultant  based in Australia.
 
-This portfolio showcases projects that demonstrate my ability to clean data, build dashboards, analyse business performance, and generate actionable insights.
+This repository showcases my projects using Power BI, Excel, SQL and Python to solve real business problems through data analysis and visualization.
 
----
+Skills
 
-## 🛠 Skills
+✅ Power BI
 
-- Power BI
-- Power Query
-- DAX
-- Excel
-- Data Modelling
-- Dashboard Design
-- Business Analysis
-- ## 📁 Projects
+✅ Excel
 
-| Project | Tools | Status |
-|---------|------|--------|
-| 🏦 Insurance Premium & Payout Dashboard | Power BI | ✅ Completed |
-| 📈 Excel Dashboard | Excel | ✅ Completed |
-| 🗄 SQL Analysis | SQL + Power BI | 🚧 Coming Soon |
-## 📫 Contact
+🚧 SQL (In Progress)
+
+Featured Projects
+🏦 Insurance Premium & Payout Dashboard (Power BI)
+
+Interactive dashboard analysing:
+
+Premium Revenue
+Maturity Amount
+Policy Performance
+Customer Demographics
+Regional Analysis
+
+📄 Dashboard PDF
+
+📊 Power BI File
+
+📈 Excel Insurance Analysis
+
+Interactive Excel dashboard using:
+
+Pivot Tables
+Pivot Charts
+KPI Cards
+Slicers
+Conditional Formatting
+Future Projects
+Supply Chain Dashboard
+Sales Dashboard
 
 - LinkedIn:(https://www.linkedin.com/in/nguyen-kien-trung/)
 - Email: nguyenkientrung152@gmail.com
