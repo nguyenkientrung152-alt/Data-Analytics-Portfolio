@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing a portfolio of 7,000 insurance policies, tracking premium collection, payout obligations, ROI performance, and sales agent productivity through a fully modeled star schema — built for the Data Analytics unit at Macquarie University.
 
-![Dashboard Screenshot](./screenshot.png)
+
 
 ## Business Questions Answered
 - What is the total premium book size, and how much has been collected vs. is still payable?
