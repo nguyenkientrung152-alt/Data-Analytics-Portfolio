@@ -42,7 +42,7 @@ Profit broken down by product category, top-5 profitable locations/products, and
 - Washington and California are the top two profit-generating locations, just ahead of Michigan, Virginia, and Missouri.
 
 ## Tools Used
-- Microsoft Power BI (DAX, multi-page report design, drill-through filters)
+- Microsoft Excel (DAX, multi-page report design, drill-through filters)
 
 ## Files
 - `Project_4.xlsx` — full interactive dashboard file
