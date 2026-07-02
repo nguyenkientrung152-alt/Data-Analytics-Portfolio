@@ -1,6 +1,6 @@
 # Business Sales & Profit Performance Dashboard
 
-A multi-page Power BI dashboard tracking revenue, targets, and profitability across 10 stores and 20 sales locations, with drill-down views for time trends, store-level variance, and product/category profit contribution — useful for supply and distribution network performance reviews.
+A multi-page Microsoft Excel dashboard tracking revenue, targets, and profitability across 10 stores and 20 sales locations, with drill-down views for time trends, store-level variance, and product/category profit contribution — useful for supply and distribution network performance reviews.
 
 ![Store View Screenshot](./screenshot1.png)
 
